@@ -46,3 +46,9 @@ class Solution(object):
             ret = ret*10 + int(ls[i])
             i += 1
         return max(-2**31, min(sign * ret,2**31-1))
+    
+    def makePattern(num)
+        for i in range(num+1):
+            print("*"*i)
+        for j in range(num,0,-1):
+            print("*"*j)
