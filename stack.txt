@@ -1,0 +1,14 @@
+***********************************
+Stack
+- A linear Data structure
+- follows Last in first out (LIFO) principle
+
+Basic Operation of Stack
+
+- Push: Add an element to the top of a stack O(1)
+- Pop: Remove an element from the top of a stack O(1)
+- IsEmpty: Check if the stack is empty O(1)
+- IsFull: Check if the stack is full O(1)
+- Peek: Get the value of the top element without removing it O(1)
+
+***********************************
